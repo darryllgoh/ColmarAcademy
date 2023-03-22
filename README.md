@@ -2,8 +2,7 @@
 
 What did you like about this project?
 
-**Good challenge! Some parts are really challenging.
-**
+**Good challenge! Some parts are really challenging.**
 
 What did you struggle with in this project?
 
